@@ -64,7 +64,7 @@ public class ServletUpdate extends HttpServlet {
         }
 
         public static String toJson(UserUpdateResponse response) {
-            // Реализация метода преобразования объекта в JSON
+
             return null;
         }
     }
